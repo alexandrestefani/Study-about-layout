@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout details</string>
+    <string name="title">Trabalhando com layout</string>
+    <string name="text">Ensaio sobre como trabalhar com layouts, ideia é aprimorar a testar recursos de layout.</string>
+    <string name="textButton">Proxima ></string>
+    <string name="textDate"> 08/04/2023</string>
+
+</resources>
